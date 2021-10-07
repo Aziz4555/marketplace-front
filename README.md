@@ -1,6 +1,6 @@
 # frontend
 
-#Création d'une marketplace
+#Création d'une marketplace <br/>
 Framework -> Vuejs 3, backend -> Strapi
 
 ## Project setup

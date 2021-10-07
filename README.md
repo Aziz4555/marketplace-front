@@ -1,5 +1,8 @@
 # frontend
 
+#Création d'une marketplace
+Framework -> Vuejs 3, backend -> Strapi
+
 ## Project setup
 ```
 npm install
